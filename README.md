@@ -1,12 +1,12 @@
 # HPE PCAI PEFT example
-This example demonstrate How to finetune the LLM in the PCAI. This example does not focus on Finetuning itself, but How to *finetune with AI Essentials Softwares in PCAI*.
+This example demonstrates how to fine-tune Large Language Models (LLMs) within the PCAI platform using HPE AI Essentials Software. The focus here is not on the fine-tuning process itself, but rather on leveraging PCAI’s integrated tools and frameworks to streamline and manage LLM fine-tuning workflows.
 
 <img src="AIE1.10/assets/finetune-diagram.png" alt="finetune-diagram.png" width="800">
 
 ## Contents
-- AIE1.8 : Include Jupyter Notebooks and Kubeflow Pipeline code validated in AIE1.8.
-- AIE1.10 : Include Jupyter Notebooks and Kubeflow Pipeline code validated in AIE1.10.
-- build_image : Include resources used to build Kubeflow pipeline component container image.
+- AIE1.8 : Jupyter Notebooks and Kubeflow Pipeline code validated on AIE1.8.
+- AIE1.10 : Jupyter Notebooks and Kubeflow Pipeline code validated on AIE1.10.
+- build_image : Resources and scripts for building Kubeflow pipeline component container images.
 
 ## Core AI Essentials Components
 ### MLflow
