@@ -1,7 +1,8 @@
 # Fine-tune the LLM within the PCAI
 This example demonstrates how to fine-tune Large Language Models (LLMs) within the PCAI platform using HPE AI Essentials Software. The focus here is not on the fine-tuning process itself, but rather on leveraging PCAI’s integrated tools and frameworks to streamline and manage LLM fine-tuning workflows.
-
-<img src="AIE1.10/assets/finetune-diagram.png" alt="finetune-diagram.png" width="800">
+<div style="text-align: center;">
+  <img src="AIE1.10/assets/finetune-diagram.png" alt="finetune-diagram.png" width="800">
+</div>
 
 ## Contents
 - AIE1.8 : Jupyter Notebooks and Kubeflow Pipeline code validated on AIE1.8.
