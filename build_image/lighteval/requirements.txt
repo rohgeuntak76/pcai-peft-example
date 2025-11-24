@@ -1,4 +1,4 @@
-lighteval==0.12.1
+lighteval==0.12.2
 litellm==1.79.1
 litellm[caching]
 nltk==3.9.1
